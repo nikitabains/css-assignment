@@ -1,0 +1,107 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+html
+{scroll-behavior:smooth;
+    }
+body{
+  margin:0px;
+  background-color:#f9f9f9;
+}
+h1,h2,h3,h4{
+  font-family:cursive, sans-serif;
+text-align: center;
+  }
+p,a,li{
+   font-family:'lato',sans-serif;
+  font-size:20px;
+  align-items:center;
+}
+/*style your header*/
+header{
+display:flex;
+  align-items:center;
+  text-align:center;
+background: #f9f9f9;
+  list-style:none;
+  margin:0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+  
+
+header nav ul  {
+  display:flex;
+  align-items:center;
+  list-style:none;
+  margin:0px;
+  
+}
+header nav ul li{
+  padding: 0px 10px;
+}
+header nav li a:link{
+  text-decoration:none;
+}
+header nav li a:hover{
+  color: #0cb19d;
+}
+header img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+position: center;
+}
+h1   {color: #800080;
+     text-align: center;}
+
+
+#paragraph1{
+  background-position: center;
+  text-align: center;
+  background-repeat: no repeat;
+  background-size: cover;
+  font-weight: bold;
+  
+}
+.main{
+  font-family: Segoe Print;
+  text-align:center;
+ background-color:#b0e0e6;
+  font-weight: bold;
+  color:darkgoldenrod;
+}
+  
+}
+#paragraph2{
+  background-position: center;
+  text-align: center;
+  background-repeat: no repeat;
+  background-size: cover;
+ font-family:'lucida handwriting';
+  font-weight: bold;
+color:#800000;
+}
+
+#paragraph3{
+  background-position: center;
+  text-align: center;
+  background-repeat: no repeat;
+  background-size: cover;
+ font-family:'lucida handwriting';
+  font-weight: bold;
+  color:#8b0000;
+  
+}
+#paragraph4{background-position: center;
+  text-align: center;
+  background-repeat: no repeat;
+  background-size: cover;
+ font-family:'lucida handwriting';
+  font-weight: bold;
+            color:#ff4500;
+}
